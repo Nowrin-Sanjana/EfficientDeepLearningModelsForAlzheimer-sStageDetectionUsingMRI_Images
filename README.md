@@ -84,6 +84,7 @@ train_datagen = ImageDataGenerator(
 )
 
 ## 📂 Repository Structure
+```
 alzheimers-detection/
 ├── data/
 ├── models/
@@ -96,7 +97,7 @@ alzheimers-detection/
 ├── results/
 ├── README.md
 └── requirements.txt
-
+```
 ## 🔮 Future Work
 - [ ] **Implement ensemble learning** - Combine predictions from multiple models to improve accuracy
 - [ ] **Explore 3D CNNs** - Adapt architecture for volumetric MRI data analysis
@@ -106,6 +107,6 @@ alzheimers-detection/
   - Advanced augmentation
 
 ## 👥 Contributors
--Nowrin Sanjana
--Fariha Zaman
--Ahanaf Abid
+- Nowrin Sanjana
+- Fariha Zaman
+- Ahanaf Abid
